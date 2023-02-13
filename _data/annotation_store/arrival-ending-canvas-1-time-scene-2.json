@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-time-scene-2.json",
+  "type": "AnnotationPage",
+  "label": "Time scene 2",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-time-scene-2-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ian and Louise standing next to each other right after the conclusion of their case with the aliens had ended, as they haven't even left the field where they were doing their work yet. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8,37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-time-scene-2-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jumping back to the field right after their case has ended, Ian and Louise look at each other and hug. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46,62"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-time-scene-2-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Back to scene 2, where they continue to hug like seen before, but conversation continues.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69,76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-time-scene-2-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jumping to scene 2, and both Ian and Louise are in full embrace of each other.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "125,133"
+        }
+      }
+    }
+  ]
+}

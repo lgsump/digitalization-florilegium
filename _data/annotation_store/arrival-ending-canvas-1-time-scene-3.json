@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-time-scene-3.json",
+  "type": "AnnotationPage",
+  "label": "Time scene 3",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-time-scene-3-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This seems to be a conglomeration of time scenes of the daughter of both Ian and Louise's, they are out of order, and in some spaces she is in similar clothing, some different, and also includes scenes where she is at different ages.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "91,120"
+        }
+      }
+    }
+  ]
+}

@@ -23,6 +23,56 @@
         "id": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
         "type": "Canvas",
         "duration": 143,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-time-scene-1.json",
+            "label": {
+              "none": ["Time scene 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-time-scene-2.json",
+            "label": {
+              "none": ["Time scene 2"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-general-commentary.json",
+            "label": {
+              "none": ["General Commentary"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-score.json",
+            "label": {
+              "none": ["Score"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-dialogue.json",
+            "label": {
+              "none": ["Dialogue"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-time-scene-3.json",
+            "label": {
+              "none": ["Time scene 3"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/paintings",
