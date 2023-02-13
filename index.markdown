@@ -6,7 +6,7 @@ layout: home
 ---
 
 <img width="243" alt="Screen Shot 2023-02-13 at 1 53 04 AM" src="https://user-images.githubusercontent.com/122332459/218400930-712f1f59-217d-4513-81ee-9b1f4f26b74a.png">
-<h6> Picture from <a href="(https://www.blueridgebotanic.com/blog/florilegium)">Blue Ridge Botanic.</a></h6>
+<h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <br>
 <h2> A Florilegium </h2>
 <hr>
