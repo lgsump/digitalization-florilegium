@@ -12,6 +12,6 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <br>
 <hr>
-<h2> The Ending Montage </h6>
+<h2> The Ending Montage </h2>
 <br>
 This piece is the ending montage from the film Arrival (2016).
