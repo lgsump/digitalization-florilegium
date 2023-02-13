@@ -4,8 +4,7 @@
 
 layout: home
 ---
-
-<img width="243" alt="Screen Shot 2023-02-13 at 1 53 04 AM" src="https://user-images.githubusercontent.com/122332459/218400930-712f1f59-217d-4513-81ee-9b1f4f26b74a.png">
+<img width="665" alt="Screen Shot 2023-02-13 at 4 16 59 PM" src="https://user-images.githubusercontent.com/122332459/218587111-db01ee4e-9e28-49fc-ac59-517810e4d871.png">
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <br>
 <h2> Why a florilegium? What is a florilegium?</h2>
