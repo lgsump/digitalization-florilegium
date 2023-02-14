@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-time-scene-1.json",
-            "label": {
-              "none": ["Time scene 1"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-time-scene-2.json",
             "label": {
               "none": ["Time scene 2"]
