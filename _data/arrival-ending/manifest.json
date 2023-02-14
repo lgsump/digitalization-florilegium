@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-score.json",
-            "label": {
-              "none": ["Score"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-dialogue.json",
             "label": {
               "none": ["Dialogue"]
