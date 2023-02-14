@@ -1,0 +1,338 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-general-commentary.json",
+  "type": "AnnotationPage",
+  "label": "General Commentary",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Louise dancing and smiling, seemingly contradicting the narrative people would assume when someone knows the exact trajectory of their lives; leading us to think she might have a different interpretation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3,5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When Ian asks Amy these questions, after finishing the movie, it finds itself in a strange place, as the sentiment of what Ian was trying to say versus the very literal asking of a question are in different places. The sentiment of him saying that she surprises her could still evoke an emotional response no matter if Louise knew what he was going to say.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20,22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Louise's response, however, was not very open or obvious to us. She seems to not be surprised herself, funnily, but almost to have a somber reaction. The way I interpret it is as a mental state: knowing where this is going and how this could be a beginning moment, a crux of will and memory as a moment in time. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33,37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think a large point the contrasting scenes in this ending portion of the film is to represent how many of these moments we deem as so important seem very insignificant either later on or in the larger scheme of things. In the scene prior, she is having a very reflective moment with Ian, but as we jump into the 'future' we get a picture of the carelessness and in-the-moment attitute of happiness and love they experience. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40,46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This cross-time, cross-scene parallel as Louise hugs Ian in both the direct aftermath of solving the case and in her romance years later with him, seems to critize even the other points made, like in the last General Commentary annotation. It calls to question our understanding of moments themselves, as we tend to see them as deeply, very different, but in many ways, like the hug between Ian and Louise, there are a lot of parallels. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60,70"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Louise and her comment about her memory of being in Ian's arms is strange in a straight-timeline world because she, considering she says it in the scene right after the case with the aliens had been solved, has never been in Ian's arms before. This hints, like the changing time-scenes, at the large part of the plot where Louise has the abiIity, thanks to her understanding of the new language, to 'see into the future' or for more cohesive terms of the film, she can 'see her life holistically'. So, even though she hasn't, in Ian's perception of time, ever been held by him, she 'remembers', which seems to point to many of the linguistic themes of the film as a 'bad' translation, being in his arms. Maybe, there is even an attempt at labeling this 'bad' translations as a creation themselves to a new or unique understanding of the term itself. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73,76"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The picture that is, we assume, to be created by the daughter is hanging up on the wall of Ian and Louise's house, and this begs the question of time and memory in a much more 'usual' way in most culture. We can assume that the daughter, Hannah, drew this image after being told about the story by either Louise or Ian, or both. This seems to give credit to memory in that way, as opposed to the more controversial and non-linear understanding of time they have been hinting at. So, it could either be the film creators' inclusion of an idea other than their own to give it its own credit, or it could be seen as them including that understanding into their more holistic view of time. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81,82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This annotation highlights the long period of time that it takes for Louise to answer Ian's question on whether or not she wants to make a baby. This seems to come up multiple times, where we would assume that since she knows that he is going to ask that question, why would it take her so long to respond? It seems to correlate with a larger theme that is emphasized at the very end of the film that we will get to, but the idea, itself, is that having answers to questions doesn't remove their magical or emotional essence. Much of the film, especially considering the language aspect, deals with the importance of teaching the aliens what a 'question' is. This is because, ultimately, the humans want to ask \"what is your purpose on earth?\" So, this reaction to the question seems to contradict some of the importance and initial response that viewers would have when watching that scene, as now we are being informed that it is the essence of the question, the timelessness of it, not the answer, that makes it beautiful. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87,121"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "During the conglomeration of the daughter's life, this selection seems to be the youngest, apart from the birth we see at the beginning, in the film. The irony of it is that during this 'montage' of her life, this selection of her as a baby is in the middle, and it is surrounded, both before and after, of her as an older child. This seems to add to that friction in moments and time, and the rejection of the timeline. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "105,114"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Before this scene, our relation from all of the scenes in the montage seem to be a merely good coordination from the editor of the film, as some of the scenes seem to be in conversation with each other. However, this is the first scene where it seems like Louise smirks as a direct reponse to the scene that happened prior, though it was technically in the 'future'. This makes the scenes themselves and their presentation serve as not only a portrayal of Louise's life and memory, but also as her presentation of them. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "127,130"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-ending-canvas-1-general-commentary-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Louise completely embraces Ian, as mentioned before, and her hand grips his hair and head. This seems to represent this larger theme, that we mentioned we would cover in an earlier General Commentary, of completely throwing herself into the moment, as we can assume that if we knew the entire trajectory of our lives we could be easily lost in our understanding of time. This also adds as a critique of viewing time as a line, as it suggests that we are dependent on it to understand our meaning and our place within it. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "132,134"
+        }
+      }
+    }
+  ]
+}
