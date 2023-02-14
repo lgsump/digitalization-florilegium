@@ -1,0 +1,126 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/carson-mccullers-at-the-poetry-center-ymha-canvas-1-excerpts.json",
+  "type": "AnnotationPage",
+  "label": "Excerpts",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-excerpts-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams reads a section from \"The Heart is a Lonely Hunter\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "986,1065"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-excerpts-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Tennessee Williams pauses and askes McCullers, \"should I read more?\" She responds, \"No, I think that til the very end- to the very last. Well for the first time I had commited myself ethically, morally, and with all my strength, and I worked for two years, and everyday they would come-- there were spasms of, of um, of um, of um, inspiration that carries what you see. The focus of the book is there, then the wake is just, it has to be just everday what you see to me. And finally it was finished, and you wanna read that little last paragraph?\" He responds quickly with, \"Oh, for \"The heart is a Lonely Hunter?\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1066,1115"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-excerpts-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams returns to finish the last paragraph",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1123,1228"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-excerpts-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"For in his swift radiance of illumination, he saw a glimpse of human struggle and of valor, of the endless fluid passage of humanity through endless time, and of those who labor, and of those who, one word, love. His soul expanded, but for a moment only. For in him he felt a warning, a shaft of terror, between the two worlds he was suspended. He saw that he was looking at his own face in the counter-glass before him, sweat glistened on his temples and his face was contorted.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1137,1169"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-excerpts-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams reads out the paragraph that McCullers pointed out.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1310,1366"
+        }
+      }
+    }
+  ]
+}

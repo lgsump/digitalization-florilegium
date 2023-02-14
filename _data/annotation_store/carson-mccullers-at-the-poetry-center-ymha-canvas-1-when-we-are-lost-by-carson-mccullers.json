@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/carson-mccullers-at-the-poetry-center-ymha-canvas-1-when-we-are-lost-by-carson-mccullers.json",
+  "type": "AnnotationPage",
+  "label": "When We Are Lost by Carson McCullers",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-when-we-are-lost-by-carson-mccullers-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"When we are lost what image tells? Nothing resembles nothing. Yet nothing Is not blank. It is configured Hell: Of noticed clocks on winter afternoons, malignant stars, Demanding furniture. All unrelated And with air between. The terror. Is it of Space, of Time? Or the joined trickery of both conceptions? To the lost, transfixed among the self-inflicted ruins, All that is non-air (if this indeed is not deception) Is agony immobilized. While Time, The endless idiot, runs screaming round the world.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "456,532"
+        }
+      }
+    }
+  ]
+}

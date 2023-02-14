@@ -1,0 +1,354 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise.json",
+  "type": "AnnotationPage",
+  "label": "Noise",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Silence, static",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The crowd gasps and starts applauding.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120,130"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applause",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "160,200"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "256,258"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "296,297"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "326,328"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "589,592"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "625,631"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "672,673"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Silence, static",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "716,727"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "933,936"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Book turning",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1116,1122"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Two waves of laughter come and go",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1403,1413"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1416,1424"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-noise-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sqweaky noise; seemingly drops conversation and restarts",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1534,1545"
+        }
+      }
+    }
+  ]
+}

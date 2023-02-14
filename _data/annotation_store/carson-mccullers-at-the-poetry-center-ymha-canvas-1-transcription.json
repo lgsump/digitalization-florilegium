@@ -1,0 +1,710 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The program introduction by an unknown man, he says, \"Tonight The Poetry Center closes its longest and most successful season with the happiest of events. I'm referring, of course, to the presence, here, of our guest, Carson McCullers.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23,38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"When we think of Carson McCullers, we identify her as we do any writer of the first distinction: by a particular quality, a particular tone, a particular way of seeing.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40,55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Which is but another way of saying that she is an artist who, out of the real world, has created a world that is her own.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56,66"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"And by successive glimpses into that world, by those works of the creative imagination and titled \"The Heart is a Lonely Hunter\", \"Reflections in a Golden Eye\", \"The Ballad of a Sad Cafe\", and \"The Member of the Wedding\", we read the accomplishment of a brilliant young career, that has already put its mark on a whole literary generation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "68,95"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"We have a surprise for you, this evening. And it's a delightful surprise. Assisting Carson McCullers in the execution of her program will be another writer, with whom she is often identified. That other writer, to who had kindly offered his most valuable assistance, is Tennessee Williams.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "98,119"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Mrs. McCullers has appeared in public most infrequently, and has confessed that she meets her audience with nothing short of fear and trembling.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "131,141"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"It seems to me that out of all the audiences she will ever meet, none will be more sympathetic or happier to see her than this one. And in welcoming her and Mr. Williams, I know you will make that evident. It is a pleasure now to give you Carson McCullers and Tennessee Williams.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "142,159"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Carson McCullers, \"When first I was on platform speaking, I was supported by two people on the stage. It came about like this: It was in Paris, and, um, I didn't know a word of French- except 'oui' and 'non'. And then one day, I had just come, and one day this stranger came to my hotel and said that, starting talking to me in French, and I didn't understand a word he said. And, um, I said, \"some tea\", and he talked more. I still didn't understanding, but I understood the name of my books in French; \"le Coeur est un Chasseur Solitaire\", \"reflets dans un oeil d'or\", et \"la ballade d'un café triste\". So I knew he was talking about my books, but I didn't know what he was saying. And I said, \"Oui.\" ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "201,255"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And then he took my hand, \"All bon, madame. All bon, madame.\" He was so delighted. I was like what's he so delighted for? And so then, I took him to the elevator. And then he called again the next day. And talk so more. In French that was intelligible to me as a waterfall. So I, I said, \"Oui, Monsieur.\" And he said, \"All bon, madame.\" All over again, \"All bon, madame.\" Just delighted. And then, he came another time, and I began to wonder what this man was doing in my life.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "259,295"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"So, I soon find out. [Inaudible] was living in the same hotel, and one day she came up to my attic room, and showed me this-- said, \"What are you doing, Carson?\" And I said, \"What do you mean?\" And she showed me this card. And in the card it said, and they were in French, and I- am hap- proud to announce that Carson McCullers will speak at the Sorbonne University.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "298,325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"As a comparison, a critical comparison, of French literarure and American literature. While I was just- I almost fainted, but then I called my doctor and she just laughed. And then I called the American Embassy, where I had a good friend. He used to be my publisher, Hope McLind. He said I'll come around and see you. So he came around, and said \"Well, this is really something. You obviously can't speak about-  in French, to the Sorbonne audience about French literature and American literature- what can you do?\" And I said, \"Well, I can hardly-uh, dance the Can-Can because it's not very suitable for the occasion.\" And then he said, \"Surely, you can do something.\" And suddenly I said, \"Well, maybe I could read a poem in English.\" And he said, \"Maybe so.\" And I said, \"And you talk about, and you, and you do the talking. You talk about French, I mean, American Literature. And let Rene Lalou, that's the wonderful French critic, talk about French literature. So I wrote to [inaudible] and put them on a stage. Anyways, so. They talk, and I had to sit in the middle of the stage. Trying to look intelligent, and not understanding a word that was said. But for good luck, I'll tell you that poem I said that night.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "329,452"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applause; ending with a bit of mumble",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "533,544"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I have been writing for nearly 20 years, and the genesis of creation is still strange to me. Mysterious.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "551,565"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I first started writing plays, and I wrote two plays. The first play was about, was laid in Australia- oh, New Zealand, oh, I guess it was.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "578,588"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And it was about, oh what was- it started in a graveyard and ended in a catapult. I mean really. Lots of fun. I was in love with Eugene O'Neill. I had his picture on my bureau and everything. And the next play was called \"Fire of Life\", and the chief characters were Nietzsche, the only charaters were Nietzsche and Jesus Christ.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "593,624"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Then I wrote a novel. And to my great joy, it was accepted by a literary agent. He was very much puzzled by it, but one thing I had people giving tickets to productors in subways, and that's why I'd never been to New York. And then, uh, all kinds of little peculiar things, prompted him to write me- 'How long has it been since you were in New York?'\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "631,671"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Then when I was 17 years old I went to New York, and two marvelous things happened: I the-the first time I saw snow, and then, a lot of snow, and my first story was accepted by Whit Burnett and Martha Foley of Story Magazine. Oh, that was a day! And, um, I'm not only felt proud, but rich, I- they sent me 25 dollars, I spent it that same afternoon. It was great celebration.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "683,715"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"But about this mystery of creation that fascinates all us creative people. What is- what- what is- what is the time, and what, pracipitates a way to gather for some power in a sort of searchless nature.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "728,755"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I remember when \"The Heart is a Lonely Hunter\" found itself. I was staying with my parents in Georgia. And I've been writing this book. It was a marvelous, bundling book. I know what I was doing, I just knew about these 5 people, and 4 of them were always talking to the other one, the other, the 5th one, the placed one. And I wondering why they were always talking to this- this rather colorless character, person I'd rather say. And I was- but I worked very hard, I worked every day. And, um, every day I knew I would fail.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "761,815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"But I was still fascinated by the- this silicone novel, but now and then I'll think, well, when worst comes to worst, I'll split it up in little stories like Weinsburg or Hao. But-but still didn't satisfy me, I still thought- as a novel. And one day I was walking up and down in the lil- living room, in our little square or everrow, and I was skipping squares. I was thinking and worrying about that book. And suddenly, that came to me, and illumination. Suddenly, I knew that, that um, Minovitz, that was the character who was always being talked to was a deaf-mute. And then immediately after that, I said but his name was not Minovitz, too, it was Singer. John Singer. And so immediately, all the other things just fitted into place. And there was a focus and a blaze, and the- and I understood what was being done and what I was supposed to do. And um, a few days later, I started- in the town, now two mutes, and they were always together. Now Tennessee, you want to. What are you going to read?\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "826,932"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well, I guess it's about time I did something. Uh, last time I read the opening paragraph of \"The Heart is the Lonely Hunter,\" but that is not my favorite part of the book. It's awfully hard to find a section of a book like this to read. Uh, I'm still searching for the part that I wanted to read, but, and I haven't found it. So, I think I'll read a part, uh, which should be read in its entirety, but it would take too much time. And its uh, in the insane asylum where the deaf-mute visits the antinopolis, the thing of it is antinopolis. I can't read all of it, and it's not fair to read just a bit of it, but I'll have to.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "937,985"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well, after the strain of finish \"The Heart of the Lonely Hunter\", I just couldn't stop writing, it seems like. But I wanted to play, and I just wasn't- I didn't feel myself committed in what I was doing at the time. I just heard about this wire and army post near where I was living. And, um, in some way or another I just begun to see that soldier, and see the situation, and I just suddenly began to read, um, what's that, Tenn, would you read first paragraph? I didn't know what I was writing about then, I didn't know what was going to happen. I just suddently, to-to write a story just for the fun of it, you see. I didn't feel committed to it at all, anything-- just for the delight.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1235,1296"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams begins, \"Yeah... Uh, here's the first paragraph of \"Reflections of the Golden Eye\". I think, it's just as unfair to this novel to read it first paragaraph as the other one.\"  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1297,1307"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "McCullers begins, \"Well, I didn't know what was going to happen, but I knew something was going to--(coughing and laughing). I didn't know- I knew- I didn't know who was going to shoot who, but something was coming up. So then I just wrote for the fun of it, cause it was finished. Then I put it in a drawer for about two years. Until one day, uh, somebody, was, um, meddling in my things and read that story.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1369,1402"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And he was an editor and wanted to know if he could take it.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1414,1415"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Why this is so, I don't know, but it seems to me that my work, so far, has been split up in two categories: one category, and I have been puzzled about what those difference between those categories were several times until, um, a dear friend and former music teacher of mine was staying with me last summer, and she said, \"'The Heart of a Lonely Hunter' has a soul, 'The Member of the Wedding' has a soul, but 'Reflections of a Golden Eye' doesn't have a soul. Neither does 'The Ballad of a Sad Cafe.' Well, I said, well, I admit that 'Reflections' doesn't have much of a- soul in the way that I could name it, but I didn't agree with her about 'The Ballad of a Sad Cafe'. \"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1426,1500"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well it seems to me that the works that have a soul involve more with the evolutions of the human heart, while those that were written for play in the sense of language is concerned mostly with the convolution of the intellect. Of course there are- \"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1503,1533"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Then my next workout, again, was, um, the hardest- writing I've ever done. It was \"The Member of the Wedding.\" And, for more than a year, I just wrote the first paragraph over and over and over, and I couldn't get to the middle of the node, as Katherine Mansfield says. And all that first paragraph, that's the worst of all, because I think that, um, that the first paragraph should suggest, intimate the whole tone of the novel. And suggest all the themes, the first page, anyhow. And that is hard, you know, to do. And then I wrote, and wrote, and wrote, and I knew that I wasn't doing the right thing. And I kept working, and working, every day. It was just a novel about this, um, girl who had a crush with her music teacher, which had been done many many times before. And so, knew that wasn't a thing at all. And then one day, I was having Thanksgiving dinner with friends in Brooklyn. And, um, after we'd eaten and drunk a lot, suddenly, I heard a fire engine. And since I love fires, I rushed out of the door, I don't mean fires, but fire engines, I rushed out of the door, and, um, a friend of mine, Gypsy Rose Lee she was, who also loves fire engines, the one who rushed out with me. And something about that, that rush of air, the fresh air, you know, and I guess, it was the oxygen in my nose and excitement, I was starting on the street, called on watching the fire engine. When suddenly I came to me another illumination things I'm talking about, and I suddenly realized that Frankie is in love with her bride and the brother. And so I said, 'So listen, Gypsy, Frankie is in love with her bride and her brother.' \"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1546,1732"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "carson-mccullers-at-the-poetry-center-ymha-canvas-1-transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"And there I found this symbol. [pause] Now, well, what is the connection between that [inaudible] and that, um, understanding of the 'Heart of the Lonely Hunter', what is the connection between the fire engine and, um, the other illumination about 'The Member of the Wedding'?\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/carson-mccullers-at-the-poetry-center-ymha/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1736,1781"
+        }
+      }
+    }
+  ]
+}
