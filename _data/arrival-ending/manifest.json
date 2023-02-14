@@ -23,16 +23,6 @@
         "id": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/canvas",
         "type": "Canvas",
         "duration": 143,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-ending-canvas-1-dialogue.json",
-            "label": {
-              "none": ["Dialogue"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://lgsump.github.io/digitalization-florilegium/arrival-ending/canvas-1/paintings",
