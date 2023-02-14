@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-beginning-canvas-1-time-scene-7.json",
+  "type": "AnnotationPage",
+  "label": "Time scene 7",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-beginning-canvas-1-time-scene-7-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The doctor and Louise are talking alone in the hallway where Louise begins to cry, being told unfortunate information about her daughter's health. The shirt that Louise is wearing looks like the same one worn from the previous scene. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-beginning/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113,118"
+        }
+      }
+    }
+  ]
+}

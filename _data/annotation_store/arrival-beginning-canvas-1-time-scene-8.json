@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-beginning-canvas-1-time-scene-8.json",
+  "type": "AnnotationPage",
+  "label": "Time scene 8",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-beginning-canvas-1-time-scene-8-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Continuing to cry, blending with the last scene, we begin thinking it might be at the same time, but when the camera spans to the daughter on her hospital bed, it becomes apparent that the daughter had cancer due to her head being bald. The scene and draws out and the lighting gets dimmer, implying to us that she has died. Again, we see the similar shirt.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-beginning/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "119,137"
+        }
+      }
+    }
+  ]
+}

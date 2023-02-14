@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/arrival-beginning-canvas-1-time-scene-3.json",
+  "type": "AnnotationPage",
+  "label": "Time scene 3",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "arrival-beginning-canvas-1-time-scene-3-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next scene sends us to when the daughter has grown a bit, around 8 or 9 years old, and they are playing around together outside, seemingly roleplaying as in the Wild West. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/arrival-beginning/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "61,92"
+        }
+      }
+    }
+  ]
+}
