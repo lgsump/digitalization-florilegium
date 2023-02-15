@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Glass Menagerie by Tennessee Williams" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/lp_the-glass-menagerie_tennessee-williams-montgomery-clift-julie/disc1/01.01.+The+Glass+Menagerie%3A+Scenes+1%2C+2%2C+3.mp3",
+        "type": "Text",
+        "label": { "en": [ "The Glass Menagerie by Tennessee Williams" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1536,
+        "items": [
+          {
+            "id": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia802900.us.archive.org/5/items/lp_the-glass-menagerie_tennessee-williams-montgomery-clift-julie/disc1/01.01.%20The%20Glass%20Menagerie%3A%20Scenes%201%2C%202%2C%203.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1536
+                },
+                "target": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
