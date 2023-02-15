@@ -1,0 +1,3090 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/the-glass-menagerie-by-tennessee-williams-canvas-1-transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I have tricks in my pocket, I have things up my sleeve. But I am the opposite of a stage magician. He gives you illusion that has the appearance of truth. I give you truth in the pleasant disguise of illusion.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.5,17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "TOM: To begin with, I turn bark time. I reverse it to that quaint period, the thirties, when the huge middle class of America was matriculating in a school for the blind. Their eyes had failed them or they had failed their eyes, and so they were having their fingers pressed forcibly down on the fiery Braille alphabet of a dissolving economy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18,43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: In Spain there was revolution. Here there was only shouting and confusion. In Spain there was Guernica. Here there were disturbances of labour, sometimes pretty violent, in otherwise peaceful cities such as Chicago, Cleveland, Saint Louis. . . .This is the social background of the play.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "45,106"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "TOM: The play is memory. Being a memory play, it is dimly lighted, it is sentimental, it is not realistic. In memory everything seems to happen to music. That explains the fiddle in the wings. I am the narrator of the play, and also a character in it. The other characters are my mother Amanda, my sister Laura and a gentleman caller who appears in the final scenes. He is the most realistic character in the play, being an emissary from a world of reality that we were somehow set apart from. But since I have a poet's weakness for symbols, I am using this character also as a symbol; he is the long-delayed but always expected something that we live for. There is a fifth character in the play who doesn't appear except in this larger-thanlife-size photograph over the mantel. This is our father who left us a long time ago.He was a telephone man who fell in love with long distances; he gave up his job with the telephone company and skipped the light fantastic out of town. . . .The last we heard of him was a picture postcard from Mazatlan, on the Pacific coast of Mexico, containing a message of two words - 'Hello - Good-bye!' and no address.I think the rest of the play will explain itself ...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Time",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "107,156"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Tom? Tom?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "158,159"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Yes, Mother?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161,162"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: We can't say grace until you come to the table!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "162,165"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I'm coming.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "165,166"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: For these and all thy mercies, God's holy name we praise. You know, Laura, I had the funniest experience in Church last Sunday. The Church was crowded except for one pew way down in front, and in that, was just one little woman. I smiled very sweetly at her and I said, 'Excuse me, but would you mind if I share this pew?' 'I certainly would,' she said, 'This space is rented.' Do you know, that's the first time I ever knew that the Lord rented space.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "183,208"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Tom, honey, don't push with your fingers. If you have to push with something, the thing to push with is a crust of bread. And chew !chew! Animals have sections in their stomachs which enable them to digest food without mastication, but human beings are supposed to chew their food before they swallow it down. Eat food leisurely, son, and really enjoy it. A well-cooked meal has lots of delicate flavours that have to be held in the mouth for appreciation. So chew your food and give your salivary glands a chance to function!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210,238"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Mother, I haven't enjoyed one bite of this dinner because of your constant directions on how to eat it. It's you that makes me rush through meals with your hawk-like attention to every bite I take. Sickening - spoils my appetite - all this discussion of - animals' secretion - salivary glands - mastication!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "239,257"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Temperament like a Metropolitan star! You're not excused from the table.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "257,262"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I'm getting a cigarette.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "262,263"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: You smoke too much.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "264.1,264.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: I'll bring in the coffee.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "265.1,265.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: No, sister, no, sister - you be the lady this time and I'll be the darkey.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "266,269"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: I'm already up.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.1,270.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Resume your seat, little sister, I want you to stay fresh and pretty for gentleman callers!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.7,276.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: I'm not expecting any gentleman callers.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "276.6,278.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Sometimes they come when they are least expected! Why, I remember one Sunday afternoon in Blue Mountain -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "278.4,285"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I know what's coming.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "286,287"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Yes. But let her tell it. She loves to tell it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "288,292"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: One Sunday afternoon in Blue Mountain, your mother received seventeen! gentlemen callers! Why, sometimes there weren't chairs enough to accommodate them all. We had to send the colored boy over to bring in folding chairs from the parish house.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "292.9,307"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: How did you entertain those gentleman callers?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "308,310.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I understood the art of conversation!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "310.6,312"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I bet you could talk.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "313,313.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Girls in those days knew how to talk, I can tell you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "314,317"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: They knew how to entertain their gentlemen callers. It wasn't enough for a girl to be possessed of a pretty face and a graceful figure although I wasn't slighted in either respect. She also needed to have a nimble wit and a tongue to meet all occasions.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "318,332.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: What did you talk about?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "332.6,333"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Things of importance going on in the world ! Never anything coarse or common or vulgar.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "334,539"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: My callers were gentleman -all! Among my callers were some of the most prominent young planters of the Mississippi Delta - planters and sons of planters!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "340,349"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: There was young Champ Laughlin who later became vice-president of the Delta Planters Bank. Hadley Stevenson who was drowned in Moon Lake and left his widow one hundred and fifty thousand in Government bonds.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "350,366"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: There were the Cutrere brothers, Wesley and Bates. Bates was one of my bright particular beaux! He got in a quarrel with that wild Wainwright boy. They shot it out on the floor of Moon Lake Casino. Bates was shot through the stomach. Died in the ambulance on his way to Memphis. His widow was also well provided for, came into eight or ten thousand acres, that's all. She married him on the rebound - never loved her - carried my picture on him the night he died !And there was that boy that every girl in the Delta had set her cap for! That beautiful, brilliant young Fitzhugh boy from Greene County!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "368,410.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: What did he leave his widow?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "410.6,412"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: He never married ! Gracious, you talk as though all of my old admirers had turned up their toes to the daisies !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "413,417"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Isn't this the first you've mentioned that still survives ?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "418,420.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: That Fitzhugh boy went North and made a fortune - came to be known as the Wolf of Wall Street! He had the Midas touch, whatever he touched turned to gold! And I could have been Mrs Duncan J. Fitzhugh, mind you! But what did I do- I just went out of my way and picked your father !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "420.6,441.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA [rising]: Mother, let me clear the table.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "441.4,442"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: No, dear, you go in front and study your typewriter chart. Or practise your shorthand a little. Stay fresh and pretty! It's almost time for our gentlemen callers to start arriving. [She flounces girlishly toward the kitchenette.] How many do you suppose we're going to entertain this afternoon?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "443,456.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA [alone in the dining-room]: I don't believe we're going to receive any, Mother.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "456.5,458"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [reappearing, airily ] What? Not one - not one? You must be joking!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "459,463"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Not one gentleman caller? It can't be true ! There must be a flood, there must have been a tornado!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "464,571"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: It isn't a flood, it's not a tornado, Mother. I'm just not popular like you were in Blue Mountain. ... [Tom utters another groan. LAURA glances at him with a faint, apologetic smile. Her voice catching a little.] Mother's afraid I'm going to be an old maid.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "472,485"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Hello, Mother, I was - [She makes a nervous gesture toward the chart on the Wall. AMANDA leans against the shut door and stares at LAURA with a martyred look.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "528,530"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Deception ? Deception ? [She slowly removes her hat and gloves, continuing the sweet suffering stare. She lets the hat and gloves fall on the floor - a bit of acting.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "531,535"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA [shakily]: How was the DAR. meeting? Didn't you go to the DAR. meeting, Mother?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "541,552"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [faintly, almost inaudibly]: - No. - No. [Then more forcibly.] I did not have the strength - to go to the DAR. In fact, I did not have the courage! I wanted to find a hole in the ground and hide myself in it for ever ! [She crosses slowly to the wall and removes the diagram of the typewriter keyboard. She holds it in front of her for a second, staring at it sweetly and sorrowfully - then bites her lips and tears it into two pieces.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "553,572"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA [faintly]: Why did you do that, Mother? [AMANDA repeats the same procedure with the chart of the Gregg alphabet.] Why are you ??",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "577,580"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Why? Why? How old are you, Laura?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "580.2,586"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Mother, you know my age.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "586.5,588.7"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I thought that you were an adult; it seems that I was mistaken. [She crosses slowly to the sofa and sinks down and stares at LAURA.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "589,595"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Please don't stare at me, Mother.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "598,600"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: What are we going to do, what is going to become of us, what is the future?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "603,611"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Has something happened, Mother? [AMANDA draws a long breath and takes out the handkerchief again. Dabbing process.] Mother, has - something happened?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "612,619"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I'll be all right in a minute, I'm just bewildered [Count five.] - by life. ...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "620,627"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Mother, I wish that you would tell me what's happened!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "628,631"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: As you know, I was supposed to be inducted into my office at the D.A.R. this afternoon.  But I stopped off at Rubicam's business college to speak to your teachers about your having a cold and ask them what progress they thought you were making down there.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "633,649"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Oh....",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "649.4,649.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I went to the typing instructor and introduced myself as your mother. She didn't know who you were. Wingfield, she said. We don't have any such student enrolled at the school! I assured her she did, that you had been going to classes since early in January. 'I wonder,' she said, 'if you could be talking about that terribly shy little girl who dropped out of school after only a few days' attendance?' 'No,' I said, 'Laura, my daughter, has been going to school every day for the past six weeks !' 'Excuse me,' she said. She took the attendance book out and there was your name, unmistakably printed, and all the dates you were absent until they decided that you had dropped out of school. I still said, 'No, there must have been some mistake I There must have been some mix-up in the records !' And she said, 'No - I remember her perfectly now. Her hands shook so that she couldn't hit the right keys ! The first time we gave a speed-test, she broke down completely - was sick at the stomach and almost had to be carried into the wash-room! After that morning she never showed up any more. We phoned the house but never got any answer' -while I was working at Famous and Barr, I suppose, demonstrating those - Oh! I felt so weak I could barely keep on my feet ! I had to sit down while they got me a glass of water ! Fifty dollars' tuition, all of our plans - my hopes and ambition for you - just gone up the spout, just gone up the spout like that. [LAURA draws a long breath and gets awkwardly to her feet She crosses to the victrola and winds it up.] Oh, don't do that, Laura, don't play that big trolla. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "650,753"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Oh I [She releases the handle and returns to her seat.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "754,755"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Laura? Laura, where have you been going when you've gone on pretending that you were going to business college ?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "756,763"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: I've just been going out walking.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "764,765.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: That's not true.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "766,767"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: It is. I just went walking.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "767.6,771"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Walking? Walking? In winter? Deliberately courting pneumonia in that light coat? Where did you walk to, Laura?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "772,782"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: All sorts of places - mostly in the park.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "782.5,786.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Even after you'd started catching that cold?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "788,790.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: It was the lesser of two evils, Mother. [IMAGE: WINTER SCENE IN PARK.] I couldn't go back up. I threw up -on the floor !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "790.6,799"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: From half past seven till after five every day you mean to tell me you walked around in the park, because you wanted to make me think that you were still going to Rubicam's Business College?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "799.8,808"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: It wasn't as bad as it sounds. I went inside places to get warmed up",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "808.4,813.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Inside where?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "813.6,815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: I went in the art museum and the bird-houses at the Zoo. I visited the penguins every day! Sometimes I did without lunch and went to the movies. Lately I've been spending most of my afternoons in the jewel-box, that big glass-house where they raise the tropical flowers.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "815.3,836"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: You did all this to deceive me, just for deception? [LAURA looks down.] Why?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "836.7,842"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Mother, when you're disappointed, you get that awful suffering look on your face, like the picture of Jesus' mother in the museum !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "842.5,850.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Hush !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "850.5,851"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: I couldn't face it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "851.2,852"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [hopelessly fingering the huge pocketbook]: So what are we going to do the rest of our lives? Stay home and watch the parades go by? Amuse ourselves with the glass menagerie, darling? Eternally play those worn-out phonograph records your father left as a painful reminder of him? We won't have a business career - we've given that up because it gave us nervous indigestion ! [Laughs wearily.] What is there left but dependency all our lives? I know so well what becomes of unmarried women who aren't prepared to occupy a position. I've seen such pitiful cases in the South - barely tolerated spinsters living upon the grudging patronage of sister's husband or brother's wife ! - stuck away in some little mousetrap of a room - encouraged by one in-law to visit another - little birdlike women without any nest - eating the crust of humility all their life ! Is that the future that we've mapped out for ourselves? I swear it's the only alternative I can think of ! It isn't a very pleasant alternative, is it? Of course - some girls do marry! [LAURA twists her hands nervously.] Haven't you ever liked some boy?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "857,945"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Yes. I liked one once. [Rises.] I came across his picture a while ago.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "945.2,950"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [with some interest]. He gave you his picture?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "951,952"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: No, it's in the year-book.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "953,954.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: [disappointed]: Oh - a high-school boy.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "954.4,955.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Yes. His name was Jim. [LAURA lifts the heavy annual from the claw-foot table.] Here he is in The Pirates of Penzance.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "955.7,964"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [absently]: The what?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "964.8,965.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: The operetta the senior class put on. He had a wonderful voice and we sat across the aisle from each other Mondays, Wednesdays, and Fridays in the Aud. Here he is with the silver cup for debating !See his grin?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "965.6,982"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [absently]: He must have had a jolly disposition.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "983,984.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: He used to call me - Blue Roses.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "985.4,989.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Why did he call you such a name as that?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "990,992"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: When I had that attack of pleurosis - he asked me what was the matter when I came back. I Said pleurosis he thought that I said Blue Roses ! So that's what he always called me after that. Whenever he saw me, he'd holler, 'Hello, Blue Roses ! I didn't care for the girl that he went out with. Emily Meisenbach. Emily was the best-dressed girl at school. She never struck me, though, as being sincere. . . . It says in the Personal Section - they're engaged. That's a long time ago. They must be married by now.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "992.3,1034"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Girls that aren't cut out for business careers usually wind up married to some nice man. [Gets up with aspark of revival.] Sister, that's what you'll do !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1034.5,1044"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: But, Mother",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1045,1046"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Yes ? [Crossing to photograph.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1046.2,1046.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA [in a tone of frightened apology]: I'm - crippled !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1048,1049"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Nonsense ! Laura, I've told you never, never to use that word. Why, you're not crippled, you just have a little defect - hardly noticeable, even! When people have some slight disadvantage like that, they cultivate other things to make up for it - develop charm - and vivacity and - charm! That's all you have to do ![She turns again to the photograph.] One thing your father had plenty of - was charm!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1050,1076"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: After the fiasco at Rubicam's Business College, the idea of getting a gentleman caller for Laura began to play a more and more important part in Mother's calculations. It became an obsession. Like some archetype of the universal unconscious, the image of the gentleman caller haunted our small apartment. ...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1097,1117"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Even when he wasn't mentioned, his presence hung in Mother's preoccupied look and in my sister's frightened, apologetic manner - hung like a sentence passed upon the Wingfields ! Mother was a woman of action as well as words. She began to take logical steps in the planned direction. Late that winter and in the early spring - realizing that extra money would be needed to properly feather the nest and plume the bird - she conducted a vigorous campaign on the- telephone, roping in subscribers to one of those magazines for matrons called The Home-maker's Companion, the type of journal that features the serialized , sublimations of ladies of letters who think in terms of eyes like wood-smoke in autumn, fingers that soothe and caress like strains of music, bodies as powerful as Etruscan sculpture.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1119,1173"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Ida Scott? This is Amanda Wingfield! We missed you at the D.A.R. meeting last Monday! I said to myself: She's probably suffering with that sinus condition ! How is that sinus condition? Horrors ! Heaven have mercy !- You're a Christian martyr, yes, that's what you are, a Christian martyr ! Well, I just have happened to notice that your subscription to the Companion's about to expire! Yes, it expires with the next issue, honey !- just when that wonderful new serial by Bessie Mae Hopper is getting off to such an exciting start. Oh, honey, it's something that you can't miss !You remember how 'Gone With the Wind' took everybody by storm? You simply couldn't go out if you hadn't read it. All everybody talked was Scarlet O'Hara. Well, this is a book that critics already compare to Gone With the Wind. It's the 'Gone With the Wind' of the post-World War generation! - What? -Burning !- Oh, honey, don't let them burn, go take a look in the oven and I'll hold- Heavens - I think she's hung up ! ... Oh, Tom! Tom, do you know what she did? She hung up on me. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1175,1248"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA: Mother, Mother! Tom's trying to write!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1248,1250.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Oh? So he is... So he is! Why can't you sit up straight?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1250.6,1258"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Mother! Please go busy yourself with something else. I'm trying to write",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1259,1262"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Now, I've seen a medical chart. And I know what that position does to your internal organs! Now you sit up and I'll shoo!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1262.2,1269"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: What in Christ's name am !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1269.4,1270.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [shrilly]: Don't you use that -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1270.3,1271"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Supposed to do !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1270.5,1271"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Tone with me !Not in my -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1271.6,1273"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-104.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Ohhh! !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1272,1272.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-105.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: House ! What's the matter with you? Have you gone out of your senses?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1273.5,1276"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-106.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I have, that's true, driven out !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1276.2,1278.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-107.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: What is the matter with you, you - big - big IDIOT !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1278.5,1280.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-108.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Look !- I've got no thing, no single thing !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1280.5,1283.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-109.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Lower Your Voice !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1283.6,1284.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-110.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: In my life here that I can call my OWN !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1284.8,1286"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-111.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Stop that shouting !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1286.2,1287"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-112.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Yesterday you confiscated my books ! You had the nerve -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1287.2,1290"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-113.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I took that horrible novel back to the library- yes ! That hideous book by that insane Mr. Lawrence. [Tom laughs wildly.] I cannot control the output of diseased minds or people who cater to them - [Tom laughs still more wildly.] BUT I WON'T ALLOW SUCH FILTH BROUGHT INTO MY HOUSE ! NO, no, no, no, no !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1290.2,1305.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-114.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: My house, my house ! Who pays rent on it, who makes a slave of himself to -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1305.6,1309"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-115.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [fairly screeching]: Don't you DARE to -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1310,1310.9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-116.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: No, no, I mustn't say anything ! I've just got to keep quiet-",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1311,1314.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-117.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Let me tell you -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1314.5,1315.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-118.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I don't want to hear any more! [He tears the portières open. The upstage area is lit with a turgid smoky red glow.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1315.4,1316"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-119.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: You will hear more, you -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1316.8,1318"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-120.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: No, I won' t hear more, I'm going out !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1318.1,1319"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-121.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: You come right back in -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1319,1320"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-122.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Out!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1320.1,1320.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-123.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: Come back here, Tom Wingfield ! I'm not through talking to you !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1320.7,1323.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-124.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Oh, go -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1323.7,1324.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-125.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA [desperately]: Tom !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1324.4,1325.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-126.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: You're going to listen, and no more insolence from you ! I'm at the end of my patience !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1325.6,1330"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-127.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: What do you think I'm at the end of? Aren't I supposed to have any patience to reach the end of, Mother? I know, I know. It seems unimportant to you, what I'm doing - and what I want to do - having a slight difference between them !You don't think -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1330.1,1342"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-128.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I think you've been doing things that you're ashamed of. That's why you act like this. I don't believe that you go every night to the movies every night. Nobody goes to the movies night after night. Nobody in their right mind goes to the movies as often as you pretend to. People don't go to the movies at nearly midnight, and movies don't let out at two a.m. Come in stumbling. Muttering to yourself like a maniac! You get three hours' sleep and then go to work. Oh, I can picture the way you're doing down there. Moping, doping, because you're in no condition.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1342.3,1371"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-129.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM [wildly]: No, I'm in no condition !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1371.2,1373.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-130.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: What right have you got to jeopardize your job - jeopardize the security of us all? How do you think we'd manage if you were -",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1373.6,1379"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-131.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: Listen !You think I'm crazy about the warehouse? [He bonds fiercely toward her slight figure.] You think I'm in love with the Continental Shoemakers? You think I want to spend fifty- five years down there in that - celotex interior!  Look! I'd rather somebody picked up a crowbar and battered out my brains - than go back mornings! But I go ! Every time you come in yelling……… that God damn 'Rise and Shine!'- 'Rise and Shine!' I say to myself, 'How lucky dead people are ! 'But I get up. I go! For sixty-five dollars a month I give up all that I dream of doing and being ever! And you say self - selfs' all I ever think of. Why, listen, if self is what I thought of, Mother, I'd be where he is -G O N E ! [Pointing to fathers picture.] As far as the system of transportation reaches ! [He starts past her. She grabs his arm.] Don't grab at me, Mother !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1379.6,1425.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-132.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I'm not grabbing at you, I just wanna know where are you going?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1425.9,1428.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-133.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I'm going to the movies!",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1429,1429.6"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-134.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA: I don't believe that lie !",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1429.8,1431.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-135.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "TOM [crouching toward her, overtowering her tiny figure. She backs away, gasping]: No? Well, you're right. For once in your life you're right. I'm going to opium dens ! Yes, opium dens, dens of vice and criminals' hang-outs, Mother. I've joined the Hogan gang, I'm a hired assassin, I carry a tommy-gun in a violin case! I run a string of cathouses in the Valley! They call me Killer, Killer Wingfield, I'm leading a double-life, a simple, honest warehouse worker by day, by night a dynamic tsar of the underworld, Mother. I go to gambling casinos, I spin away fortunes on the roulette table ! I wear a patch over one eye and a false moustache, sometimes I put on green whiskers. On those occasions they call me -El Diablo ! Oh, I could tell you things to make you sleepless ! My enemies plan to dynamite this place. They're going to blow us all sky-high some night ! And will I be glad, and so will you ! You'll go up, up on a broomstick, over Blue Mountain with seventeen gentlemen callers! You ugly - babbling old - witch. [He goes through a series of violent, clumsy movements, seizing his overcoat, lunging to do door, pulling it fiercely open. The women watch him, aghast. His arm catches in the sleeve of the coat as he struggles to pull it on. For a moment he is pinioned by the bulky garment. With an outraged groan he tears the coat of again, splitting the shoulder of it, and hurls it across the room. It strikes against the shelf of Laura's glass collection, there is a tinkle of shattering glass. LAURA cries out as if wounded.]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1431.3,1492"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-136.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LAURA [shrilly] : Oh! Help! My glass ! - menagerie. . . . [She covers her face and turns away.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1493,1498"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-137.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AMANDA [in an awful voice]: I won't speak to you - until you apologize ! [She crosses through portières and draws them together behind her. TOM is left with LAURA. LAURA Clings weakly to the mantel with her face averted. TOM stares at her stupidly for a moment. Then he crosses to shelf. Drops awkwardly on his knees to collect the fallen glass, glancing at LAURA as if he would speak but couldn't.]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1498.8,1503"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-transcription-annotation-138.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "TOM: I'm sorry, Laura. I'm sorry.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1506,1510"
+        }
+      }
+    }
+  ]
+}
