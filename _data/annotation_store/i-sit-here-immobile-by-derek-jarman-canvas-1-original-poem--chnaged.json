@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/i-sit-here-immobile-by-derek-jarman-canvas-1-original-poem--chnaged.json",
+  "type": "AnnotationPage",
+  "label": "Original poem, chnaged",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "i-sit-here-immobile-by-derek-jarman-canvas-1-original-poem--chnaged-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "the day",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Transformation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/i-sit-here-immobile-by-derek-jarman/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "79,80.2"
+        }
+      }
+    }
+  ]
+}
