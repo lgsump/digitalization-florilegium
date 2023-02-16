@@ -15,5 +15,5 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <hr>
 <br>
-A video by Chris Briggs that visualizes the poetry of Derek Jarman from his book "Derek Jarman's Garden", and that adapation of that poetry into the music created by English composer Donna McKevitt in her album "Translucence". The video was created in 2009, the music in 1998, and Jarman's book published in 1995. 
+A video by Chris Briggs that visualizes the poetry of Derek Jarman from Jarman's book "Derek Jarman's Garden", and the adapation of that poetry into the music created by English composer Donna McKevitt in her album "Translucence". The video was created in 2009, the music in 1998, and Jarman's book published in 1995. 
 <br>
