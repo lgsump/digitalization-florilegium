@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://lgsump.github.io/digitalization-florilegium/i-sit-here-immobile-by-derek-jarman/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "I Sit Here Immobile by Derek Jarman" ] },
+    "label": { "en": [ "I sit here immobile by Derek Jarman" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/i-sit-here-immobile-translucence",
         "type": "Text",
-        "label": { "en": [ "I Sit Here Immobile by Derek Jarman" ] },
+        "label": { "en": [ "I sit here immobile by Derek Jarman" ] },
         "format": "text/html"
       }
     ],
