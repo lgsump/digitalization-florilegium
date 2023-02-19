@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/i-sit-here-immobile-by-derek-jarman-canvas-1-music-script.json",
-            "label": {
-              "none": ["Music script"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digitalization-florilegium/annotations/i-sit-here-immobile-by-derek-jarman-canvas-1-original-poem--changed.json",
             "label": {
               "none": ["Original poem, changed"]
