@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/i-sit-here-immobile-by-derek-jarman-canvas-1-video-captions--mistake.json",
-            "label": {
-              "none": ["Video captions, mistake"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digitalization-florilegium/annotations/i-sit-here-immobile-by-derek-jarman-canvas-1-original-poem--omitted.json",
             "label": {
               "none": ["Original poem, omitted"]
