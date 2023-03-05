@@ -11,7 +11,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h2> "I sit here immobile" by Derek Jarman and Donna McKevitt, From Poetry to Song to Video </h2>
 <hr> 
 <br>
-<img width="85" alt="Screen Shot 2023-02-15 at 6 14 14 PM" src="https://user-images.githubusercontent.com/122332459/219305661-8177c332-a58c-4bb1-8fa7-0feee39c00ac.png">
+<p style="text-align:center;"><img width="85" alt="Screen Shot 2023-02-15 at 6 14 14 PM" src="https://user-images.githubusercontent.com/122332459/219305661-8177c332-a58c-4bb1-8fa7-0feee39c00ac.png"></p>
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <hr>
 <br>
