@@ -11,7 +11,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h2> Carson McCullers and Tennessee Williams at The Poetry Center, YMHA, New York </h2>
 <hr> 
 <br>
-<img width="137" alt="Screen Shot 2023-02-13 at 6 00 14 AM" src="https://user-images.githubusercontent.com/122332459/218452320-b8ed1a9f-a394-4fd5-8253-72ef0dd49269.png">
+<p style="text-align:center;"><img width="137" alt="Screen Shot 2023-02-13 at 6 00 14 AM" src="https://user-images.githubusercontent.com/122332459/218452320-b8ed1a9f-a394-4fd5-8253-72ef0dd49269.png"></p>
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <hr>
 <br>
