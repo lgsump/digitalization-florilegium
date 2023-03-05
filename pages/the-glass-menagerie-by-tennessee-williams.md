@@ -11,7 +11,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h2> The Glass Menagerie by Tennessee Williams</h2>
 <hr>
 <br>
-<img width="73" alt="Screen Shot 2023-02-14 at 6 36 45 PM" src="https://user-images.githubusercontent.com/122332459/218895077-86f3c170-98ea-4b93-b802-819fe61e8277.png">
+<p style="text-align:center;"><img width="73" alt="Screen Shot 2023-02-14 at 6 36 45 PM" src="https://user-images.githubusercontent.com/122332459/218895077-86f3c170-98ea-4b93-b802-819fe61e8277.png"></p>
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <hr>
 <br>
