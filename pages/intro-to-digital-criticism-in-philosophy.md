@@ -5,7 +5,7 @@ permalink: intro-to-digital-criticism-in-philosophy
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<h2> Philosophical Criticism of Digital Art </h2>
+<h2><center>Philosophical Criticism of Digital Art </h2>
 <br>
 <h4> An introduction to aesthetic value and philosophy of art as pertaining to common views that reject digital art's authenticity and essence. </h4>
 <hr>
