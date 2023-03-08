@@ -25,6 +25,7 @@ To revert to the everso-referenced and beloved Greek philosopher Plato, we see a
 <br>
 However, there seems to be another aspect that has more influence on the modern understanding of the aesthetic and discussion of art: creation. Berys Gaut, in his book The Philosophy of Creativity (2010), looks into the role of creativity in philosophical questions that reach even further than art, but for our purposes, highlights a very integral aspect of analyzing art and aesthetic value by looking at the role of creation. Then, to find something beautiful in something, especially art, for Gaut, is to detect where one has created something or transformed something out of another. They took notes and made a symphony; they grabbed clay and made a sculpture. This project will look at the transformation modern artists undergo in both that regard and through their use of digitalization. 
 <br>
+<br>
 <p style="text-align:center;"><img width="342" alt="Screen Shot 2023-03-08 at 11 05 06 AM" src="https://user-images.githubusercontent.com/122332459/223783344-fc6c734a-ffa9-4e59-a6fb-420c6ca9085a.png"></p>
 <h6>Poking fun through this AI photo of nature from <a href="https://pixabay.com/photos/ai-generated-fantasy-nature-7516295/">Pixaby</a>.</h6>
 <br>
