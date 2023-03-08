@@ -5,8 +5,8 @@ permalink: intro-to-digital-criticism-in-philosophy
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<h2><center>Philosophical Criticism of Digital Art</center>
-<h4><center>An introduction to aesthetic value and philosophy of art as pertaining to common views that reject digital art's authenticity and essence.</center>
+<h1><center>Philosophical Criticism of Digital Art</center>
+<h3><center>An introduction to aesthetic value and philosophy of art as pertaining to common views that reject digital art's authenticity and essence.</center>
 <hr>
 <p style="text-align:center;"><img src="https://user-images.githubusercontent.com/122332459/218544683-1c76dfec-9de0-4160-aa3c-d8334147c676.png" alt="Flower 2" width="129"/></p>
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
