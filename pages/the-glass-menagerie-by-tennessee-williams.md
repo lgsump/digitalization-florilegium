@@ -15,4 +15,4 @@ using HTML or markdown.  Do not modify this file above this line -->
 <h6> Picture from <a href="https://www.blueridgebotanic.com/blog/florilegium">Blue Ridge Botanic.</a></h6>
 <hr>
 <br>
-<font color="blue">Scenes 1, 2, and 3 of the Glass Menagerie performed or narrated by Montgomery Clift, Julie Harris, Jessica Tandy, David Wayne, and directed by Howard Sackler for Caedmon Records and The Theatre Recording Society. Produced in 1964.</font>
+Scenes 1, 2, and 3 of the Glass Menagerie performed or narrated by Montgomery Clift, Julie Harris, Jessica Tandy, David Wayne, and directed by Howard Sackler for Caedmon Records and The Theatre Recording Society. Produced in 1964.
