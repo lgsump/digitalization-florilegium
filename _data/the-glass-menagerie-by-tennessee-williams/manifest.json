@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/digitalization-florilegium/annotations/the-glass-menagerie-by-tennessee-williams-canvas-1-transcription.json",
-            "label": {
-              "none": ["Transcription"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/digitalization-florilegium/annotations/the-glass-menagerie-by-tennessee-williams-canvas-1-scene.json",
             "label": {
               "none": ["Scene"]
