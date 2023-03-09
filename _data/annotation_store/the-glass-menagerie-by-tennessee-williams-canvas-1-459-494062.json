@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/digitalization-florilegium/annotations/the-glass-menagerie-by-tennessee-williams-canvas-1-459-494062.json",
+  "type": "AnnotationPage",
+  "label": "459.494062",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-glass-menagerie-by-tennessee-williams-canvas-1-459-494062-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "459.494062",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "459.494062",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://lgsump.github.io/digitalization-florilegium/the-glass-menagerie-by-tennessee-williams/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "459.494062"
+        }
+      }
+    }
+  ]
+}
